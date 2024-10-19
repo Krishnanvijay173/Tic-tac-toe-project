@@ -29,11 +29,11 @@ python tic_tac_toe.py
 
 Example:
 
- |   |  
+  |   |  
 ---------
- |   |  
+  |   |  
 ---------
- |   |  
+  |   |  
 
 Player X's turn
 Enter the row (1, 2, or 3): 1
