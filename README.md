@@ -1,5 +1,5 @@
 ##################################
-###      Tic Tac Toe Game      ###
+#      Tic Tac Toe Game       #
 ##################################
 
 
@@ -26,7 +26,7 @@ python tic_tac_toe.py
 1. 2-player turn-based game.
 2. Detects win or draw.
 3. Simple command-line interface.
-
+```
 Example:
 
   |   |  
@@ -34,7 +34,7 @@ Example:
   |   |  
 ---------
   |   |  
-
+```
 Player X's turn
 Enter the row (1, 2, or 3): 1
 Enter the column (1, 2, or 3): 1
